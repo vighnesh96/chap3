@@ -1,0 +1,24 @@
+[{
+    "name": "english",
+    "type": "language",
+    "totalHrs": 10,
+    "teacher": "vighnesh"
+},
+{
+    "name": "maths",
+    "type": "technical",
+    "totalHrs": 10,
+    "teacher": "vighnesh"
+},
+{
+    "name": "science",
+    "type": "technical",
+    "totalHrs": 10,
+    "teacher": "vighnesh"
+},
+{
+    "name": "marathi",
+    "type": "language",
+    "totalHrs": 10,
+    "teacher": "vighnesh"
+}]
